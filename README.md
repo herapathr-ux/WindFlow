@@ -1,5 +1,5 @@
 # WindFlow
-Code and data used in Wind flow project - Blackford Hill (2025). Contains linear model (JH, WST, MS) and WindNinja output for Blackford Hill DTM, as well as raw measurement data collected on both days of measurements
+Jupyter Notebooks and data used in Wind flow project - Blackford Hill (2025). Contains linear model (JH, WST, MS) and WindNinja output for Blackford Hill DTM, as well as raw measurement data collected on both days of measurements
 
 - `Blackford_2M_DTM_PHASE5.tif` DTM - contains gridpoints and elevation
 - `NBLidar4m....asc` - WindNinja flow files: wind velocity components
